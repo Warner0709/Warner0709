@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Warner
 - 👀 I’m interested in Robotics and Energy
 - 🌱 I’m currently learning Software Engineering and Control Engineering
-- 💞️ I’m looking to collaborate on Autonomous Driving
-- 📫 How to reach me :through my Github email
+- 💞️ I’m looking to collaborate on Autonomous Driving & Robotics
+- 📫 How to reach me : here at warner0709@outlook.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
